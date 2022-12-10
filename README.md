@@ -25,7 +25,10 @@ After you make a move with your checker, your opponent gets a chance to go. As y
 
 **DEMONSTRATION**
 
-image.jpeg
+![alt text](https://github.com/aastha-k/Connect-4-Game/blob/main/images/image.jpg)
+![alt text](https://github.com/aastha-k/Connect-4-Game/blob/main/images/image2.jpg)
+![alt text](https://github.com/aastha-k/Connect-4-Game/blob/main/images/image3.jpg)
+![alt text](https://github.com/aastha-k/Connect-4-Game/blob/main/images/image4.jpg)
 
 **YOUR NAME**
 
